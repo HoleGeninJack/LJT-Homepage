@@ -8,14 +8,14 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+site_theme               : "default"
 title                    : "Junteng Liu"
 title_separator          : "-"
 name                     : &name "Junteng Liu"
 description              : &description "Junteng Liu's academic homepage"
 url                      : https://HoleGeninJack.github.io
-baseurl                  : ""
-repository               : "HoleGeninJack/academicpages.github.io"
+baseurl                  : "/LJT-Homepage"
+repository               : "HoleGeninJack/LJT-Homepage"
 
 # Site Author
 author:
